@@ -12,8 +12,8 @@
       position:absolute;
       top:0;
       left:0;
-      width:160%;
-      height:160%;
+      width:100%;
+      height:100%;
       background-size:cover;
       background-position:center;
       -webkit-filter:brightness(var(--background-brightness)) blur(var(--background-blur));

@@ -15,7 +15,7 @@
       width:50%;
       height:50%;
       background-size:cover;
-      background-position:cover;
+      background-position:center;
       -webkit-filter:brightness(var(--background-brightness)) blur(var(--background-blur));
       filter:brightness(var(--background-brightness)) blur(var(--background-blur))}.callout-backdrop::after{background-image:inherit}.callout-backdrop{background-color:transparent!important;
         -webkit-transition:.3s all ease;

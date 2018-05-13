@@ -1,5 +1,5 @@
 @import "https://citiizen.github.io/vision.css";
-.channels-wrap > [class*="container"]:last-child::after{content:"ClearVision v5.2.5";
+.channels-wrap > [class*="container"]:last-child::after{content:"";
   color:#fff;
   font-size:11px;
   font-weight:700;

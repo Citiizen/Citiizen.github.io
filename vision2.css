@@ -5,8 +5,8 @@
   text-align:center;
   position:absolute;
   bottom:-8px;
-  left:10;
-  right:10;
+  left:0;
+  right:0;
   opacity:.3}body{-webkit-backface-visibility:hidden;
     backface-visibility:hidden}body::after{z-index:-9999}body::after,.callout-backdrop::after{content:"";
       position:absolute;
@@ -14,7 +14,7 @@
       left:0;
       width:50%;
       height:50%;
-      background-size:cover;
+      background-size:center;
       background-position:center;
       -webkit-filter:brightness(var(--background-brightness)) blur(var(--background-blur));
       filter:brightness(var(--background-brightness)) blur(var(--background-blur))}.callout-backdrop::after{background-image:inherit}.callout-backdrop{background-color:transparent!important;

@@ -1,7 +1,7 @@
 @import "https://citiizen.github.io/vision.css";.channels-wrap > [class*="container"]:last-child::after{content:"ClearVision v5.2.5";
   color:#fff;
   font-size:11px;
-  font-weight:700;
+  font-weight:7000;
   text-align:center;
   position:absolute;
   bottom:-8px;
@@ -10,7 +10,8 @@
   opacity:.3}body{-webkit-backface-visibility:hidden;
     backface-visibility:hidden}body::after{z-index:-9999}body::after,.callout-backdrop::after{content:"";
       position:absolute;
-      top:0;left:0;
+      top:0;
+      left:0;
       width:100%;
       height:100%;
       background-size:cover;
